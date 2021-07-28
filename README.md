@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Suryansh Singh
-- 👀 I’m interested in Electronics
-- 🌱 I’m currently learning everything
+### Hi there, I'm Suryansh Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ### Github Usage ~ Status
